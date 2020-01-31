@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>MOMO'S WEBSITE</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+
+<body>
+
+
+
+    <header>
+        
+        <div class="main">
+            <div class="title">
+                <ul> 
+                    <li><a href="contact.html">CONTACT ME</a></li>
+                    <li><a href="Portfolio.html">PORTFOLIO</a></li>
+                    <li><a href="About me.html">ABOUT ME</a></li>
+                    <li><a href="Home.html">HOME</a></li>
+                    
+                </ul>
+            </div>
+            <h1></h1>
+				<br> 
+				<br> 
+				<br> 
+				<br> 
+				<br> 
+				
+				
+				<h2>
+		        MONICCAH MADINGWANE
+            </h2> 
+            <h3>Web Developer.</h3>
+    
+
+    <footer>
+
+    </footer>
+</body>
+
+
+
+
+
+
+</html>

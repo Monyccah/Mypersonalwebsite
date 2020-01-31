@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+
+<body>
+    <div class="right">
+        <p>
+       <div class="main">
+            <div class="title">
+                <ul> 
+                    <li><a href="contact.html">CONTACT ME</a></li>
+                    <li><a href="Portfolio.html">PORTFOLIO</a></li>
+                    <li><a href="Home.html">HOME</a></li>
+                    
+                </ul>
+                 <div ></div>
+      
+     <div align="center" name="A little about_me"> 
+     <font size="4" color="#E6E6FA"><h1>
+			about me      
+      </h1> </font>     
+		<br>
+<font color="#FFFFFF">		<p> 
+		random stuff random stuff
+random stuffrandom stuffrandom stuffrandom stuffrandom stuffrandom stuffrandom stuffrandom stuffrandom stuffrandom stuffrandom stuff		</p>
+random stuffrandom stuffrandom stuffrandom stuffrandom stuffrandom stuffrandom stuffrandom stuffrandom stuffrandom stuffrandom stuff		</p>
+
+</font>
+</div>
+		
+            <div>
+
+
+                <ul>
+                                        
+                </ul>
+
+            </div>
+
+            <!---            
+            
+            <nav class="vertical">
+                <ul>
+                    <li><a class="home.html" href="#home">Home</a></li>
+                    <li><a href="about me.html"></a>About me</li>
+                    <li><a href=""></a></li>
+                    <li><a class="contact.html" href="contact.html"></a>contact</li>
+                 </ul>
+        </nav>
+        
+  -->
+        </div>
+        <div >
+            <h1></h1>
+
+        </div>
+
+    </header>
+</body>
+
+
+
+
+
+
+</html>
