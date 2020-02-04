@@ -1,0 +1,188 @@
+*{
+    padding: 0;
+    margin:  0;
+    border: border-box;
+}
+body{
+    background-image:url(persnmo.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position:center;
+}
+header{
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.title ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+/* .title ul li{
+    display: inline block;
+} */
+
+.title li {
+    float: right;
+  }
+.title li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+.title ul li a{
+    
+    text-decoration: none;
+    color:white;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 1s ease;
+}
+
+.title ul li a:hover{
+    background-color: rgba(128, 128, 128, 0.295);
+    color: #0000;  
+}
+
+
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+.tittle{
+    position: center;
+    top: 50%;
+    text-align-last: 50%;
+    transform: translate(-50%,-50%);
+    padding: 30px 0px;
+    
+
+}
+.tittle h1{
+    color: rgb(158, 12, 12);
+    font-size: 40px;
+    align-content: center;
+}
+
+
+.p{
+    color: white;
+    font-size: large;
+    align-self: center;
+
+}
+.name{
+    text-align: center;
+    margin-top: 300px;
+    
+}
+.name h2{
+    color :white;
+    font-size: xx-large;
+    font-family:serif;
+}
+.name p{
+    color: thistle;
+    padding: 7px;
+}
+.heading{
+    text-align: center;
+    padding-top: 40px;
+    font-family: fantasy;
+    color:rgb(110, 57, 8);
+    font-size: xx-large;
+
+}
+.about{
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    margin: auto;
+}
+#formAlign{
+    text-align: center;
+    margin-top: 50px;
+}
+#formAlign iframe{
+    height: 200px;
+}
+.contactFORM{
+    margin-top: 30px;
+    text-align: center;
+    
+}
+
+.button1 {
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1:hover {
+  background-color: gray; /* Green */
+  color: white;
+}
+.copyright{
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    margin-top: 0px;
+    color:rgb(110, 57, 8);
+}
+.heading{
+    grid-column: 1;
+    grid-row: 1/2;
+}
+.about{
+    grid-column: 1;
+    grid-row: 2/3;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+.Skills {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+.list {
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+}
+.pic{
+    text-align: center;
+}
+.pic img{
+    height: 200px;
+    width: 220px;
+    padding-top: 40px;
+}
+@media (max-width: 576px){
+    .title li {
+        float: none;
+        text-align: center;
+        border-bottom: 1px solid white;
+      }
+}
+
+
+
+
+
+
